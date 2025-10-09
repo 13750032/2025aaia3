@@ -1,0 +1,10 @@
+///week05-3b.cpp Part 1:Input Part 2:Output
+///CPE 第二題  UVA 483 倒過來
+#include <iostream>
+using namespace std;
+int main(){
+    string line;///一行字的字串 Part 1:Input
+    while(getline(cin,line)){///讀近來
+        cout<<line<<endl;/// Part 2:Output
+    }
+}
